@@ -5,7 +5,7 @@
 ## 说明
 只需要在 wxml 文件中增加个`image`标签动态引用base64编码即可
 ```
-<image src="{{qrcodeURL}"> </image>
+<image src="{{qrcodeURL}}"> </image>
 ```
 
 JS调用例子：
