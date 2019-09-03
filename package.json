@@ -1,0 +1,19 @@
+{
+  "name": "weapp-qrcode-base64",
+  "version": "1.0.0",
+  "description": "微信小程序生成二维码的插件,基于base64编码输出二维码，不依赖canvas >PS: 主要在`node-yaqrcode`项目基础上进行改造适应微信小程序",
+  "main": "weapp-qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cz848/weapp-qrcode-base64.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cz848/weapp-qrcode-base64/issues"
+  },
+  "homepage": "https://github.com/cz848/weapp-qrcode-base64#readme"
+}
